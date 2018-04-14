@@ -12,7 +12,7 @@ if($angka2 < $angka1){
 else{
     for($i=1 ; $i<=$angka2 ; $i++){
     $hasil= $angka1 + $i;
-    echo $angka1 "+" $i "=" $hasil "</br>";
+    echo "$angka1 + $i = $hasil </br>";
     }
 }
 ?>
